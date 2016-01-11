@@ -1,0 +1,8 @@
+freelancer:
+  image: nginx
+  ports:
+    - "8090:80"
+  volumes:
+    - ".:/usr/share/nginx/html:ro"
+  environment:
+    - VIRTUAL_HOST=freelancer.goliath.bradleybossard.com
