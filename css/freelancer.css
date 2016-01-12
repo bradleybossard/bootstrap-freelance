@@ -64,6 +64,7 @@ hr.star-light {
 hr.star-light:after {
     color: #fff;
     background-color: #18bc9c;
+    background-color: #4F677F;
 }
 
 hr.star-primary {
@@ -82,7 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #4F677F;
 }
 
 header .container {
@@ -151,6 +152,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    background-color: #1F4F7F;
 }
 
 .navbar a:focus {
