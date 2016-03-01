@@ -5,4 +5,4 @@ freelancer:
   volumes:
     - ".:/usr/share/nginx/html:ro"
   environment:
-    - VIRTUAL_HOST=freelancer.goliath.bradleybossard.com
+    - VIRTUAL_HOST=freelancer.bradleybossard.com
